@@ -2,7 +2,7 @@ require 'rubygems'
 require 'httparty'
 class CitizenScience
   include HTTParty
-  base_uri 'http://localhost:3001/'
+  base_uri 'http://127.0.0.1:3000/'
 
   # def initialize(u, p)
   #   @auth = {:username => u, :password => p}
