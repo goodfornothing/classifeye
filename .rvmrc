@@ -1,3 +1,0 @@
-rvm 1.9.2
-rvm --install use 1.9.2
-rvm --create gemset use openlabs_feta
