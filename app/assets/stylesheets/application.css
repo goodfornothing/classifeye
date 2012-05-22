@@ -11,6 +11,7 @@
  *= require_self
  *= require site
  *= require spots
+ *= require mobile
  *= require bootstrap_and_overrides
 */
 
